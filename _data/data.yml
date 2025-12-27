@@ -261,17 +261,24 @@ award:
   description: |
 
   items:
+    - name: Recipient of the Government of Paraguay Scholarship
+      awarder: by Government of Paraguay
+      date: 2023 – Present
+      link: 
+      description: |
+
     - name: 1st place 3D Videogame Competition
       awarder: by Educational Center Los Laureles (CEL)
       date: 2022
-      link: 
+      link:
       description: |
 
     - name: 1st place 3D Videogame Competition
       awarder: by Educational Center Los Laureles (CEL)
       date: 2021
       link:
-      description: |
+      description: | 
+
 
 patent:
   show: false
