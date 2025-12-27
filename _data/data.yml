@@ -24,7 +24,7 @@ contact:
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github:                   # https://github.com/juanmsoto
+  github:                   https://github.com/juanmsoto
 
   # research
   googlescholar:            # https://scholar.google.com/citations?user=<username>
@@ -49,7 +49,7 @@ contact:
   producthunt:              # https://www.producthunt.com/@<username>
 
   # cv
-  linkedin:                 # https://linkedin.com/in/juansotocano
+  linkedin:                 https://linkedin.com/in/juansotocano
   indeed:                   # https://my.indeed.com/p/<id>
   xing:                     # https://www.xing.com/profile/<username>
   fiverr:                   # https://www.fiverr.com/<username>
@@ -80,7 +80,7 @@ contact:
   threads:                  # https://www.threads.net/@<username>
   vk:                       # https://vk.com/<username>
   weibo:                    # weibo username, text or markdown link syntax
-  instagram:                # https://instagram.com/juansotocn
+  instagram:                https://instagram.com/juansotocn
   unsplash:                 # https://unsplash.com/@<username>
   _500px:                   # https://500px.com/p/<username>
   youtube:                  # https://www.youtube.com/@<username>
